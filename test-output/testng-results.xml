@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29080" started-at="2020-04-28T15:23:45 IST" finished-at="2020-04-28T15:24:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29080" started-at="2020-04-28T15:23:45 IST" finished-at="2020-04-28T15:24:14 IST">
+      <class name="com.qait.test.DivideInteger">
+        <test-method status="PASS" signature="divideInteger()[pri:0, instance:com.qait.test.DivideInteger@536aaa8d]" name="divideInteger" duration-ms="2383" started-at="2020-04-28T15:23:49 IST" finished-at="2020-04-28T15:23:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divideInteger -->
+      </class> <!-- com.qait.test.DivideInteger -->
+      <class name="com.qait.test.GetByName">
+        <test-method status="PASS" signature="getByName()[pri:0, instance:com.qait.test.GetByName@59e5ddf]" name="getByName" duration-ms="4337" started-at="2020-04-28T15:23:45 IST" finished-at="2020-04-28T15:23:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getByName -->
+      </class> <!-- com.qait.test.GetByName -->
+      <class name="com.qait.test.LookUpCity">
+        <test-method status="PASS" signature="lookUpCity()[pri:0, instance:com.qait.test.LookUpCity@e320068]" name="lookUpCity" duration-ms="3231" started-at="2020-04-28T15:23:52 IST" finished-at="2020-04-28T15:23:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lookUpCity -->
+      </class> <!-- com.qait.test.LookUpCity -->
+      <class name="com.qait.test.Mission">
+        <test-method status="PASS" signature="mission()[pri:0, instance:com.qait.test.Mission@1f57539]" name="mission" duration-ms="2867" started-at="2020-04-28T15:23:55 IST" finished-at="2020-04-28T15:23:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mission -->
+      </class> <!-- com.qait.test.Mission -->
+      <class name="com.qait.test.QueryByName">
+        <test-method status="PASS" signature="queryByName()[pri:0, instance:com.qait.test.QueryByName@76f2b07d]" name="queryByName" duration-ms="2863" started-at="2020-04-28T15:23:58 IST" finished-at="2020-04-28T15:24:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- queryByName -->
+      </class> <!-- com.qait.test.QueryByName -->
+      <class name="com.qait.test.GetDataSetByName">
+        <test-method status="PASS" signature="getDataSetByName()[pri:0, instance:com.qait.test.GetDataSetByName@704a52ec]" name="getDataSetByName" duration-ms="3476" started-at="2020-04-28T15:24:01 IST" finished-at="2020-04-28T15:24:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataSetByName -->
+      </class> <!-- com.qait.test.GetDataSetByName -->
+      <class name="com.qait.test.FindPersonById">
+        <test-method status="PASS" signature="findPersonById()[pri:0, instance:com.qait.test.FindPersonById@6ee52dcd]" name="findPersonById" duration-ms="3475" started-at="2020-04-28T15:24:04 IST" finished-at="2020-04-28T15:24:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findPersonById -->
+      </class> <!-- com.qait.test.FindPersonById -->
+      <class name="com.qait.test.AddInteger">
+        <test-method status="PASS" signature="addInteger()[pri:0, instance:com.qait.test.AddInteger@4493d195]" name="addInteger" duration-ms="3282" started-at="2020-04-28T15:24:08 IST" finished-at="2020-04-28T15:24:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addInteger -->
+      </class> <!-- com.qait.test.AddInteger -->
+      <class name="com.qait.test.GetListByName">
+        <test-method status="PASS" signature="getListByName()[pri:0, instance:com.qait.test.GetListByName@2781e022]" name="getListByName" duration-ms="3087" started-at="2020-04-28T15:24:11 IST" finished-at="2020-04-28T15:24:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListByName -->
+      </class> <!-- com.qait.test.GetListByName -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
